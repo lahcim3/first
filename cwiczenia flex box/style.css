@@ -1,0 +1,29 @@
+body{
+    width: auto;
+}
+#container{
+    border:1px solid grey;
+    background-color: azure;
+    margin: 20px;
+    height: 800px;
+   display: flex;
+   flex-wrap:wrap;
+   justify-content: space-evenly;
+   align-items: flex-start;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 70px;
+  flex-direction: column-reverse;
+  align-content: space-between;
+   
+}
+
+.square{
+    display:flex;
+    background-color: rgb(96, 96, 158);
+    height: 300px;
+    width: 300px;
+    border: 1px solid yellow;
+   align-items: center;
+   justify-content: center;
+}
+

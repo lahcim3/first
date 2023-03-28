@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div id="container">
+        <div class="rectangle">
+            <div id="logo">Pan Płytkarz</div>
+            <div id="zegar">12:00:00</div>
+            <div style="clear:both;"></div>
+        </div>
+
+        <div class="square">
+            <div class="tile1">
+               <a href="kim jestem.html"><img src="kim jestem.png" alt="Kim jestem?"><br>
+                <p>Kim jestem?</p></a> 
+            </div>
+            <div class="tile1">
+                <a href="co oferuje.html"><img src="pc.png" alt="co oferuje?"><br>
+                <p>Co oferuję?</p></a>
+            </div>
+            <div style="clear:both;"></div>
+
+            <div class="tile2">
+               <a href="cennik.html"><img src="cennik.png" alt="cennik"><br>
+                <p>Cennik</p></a>
+            </div>
+
+            <div class="tile3">
+                <a href="kontakt.html""><img src="kontakt.png" alt="kontakt"><br>
+                Kontakt</a>
+            </div>
+            <div style="clear:both;"></div>
+
+            <div class="tile4"><h6>Zawsze wydaje się, że coś jest niemozliwe, dopóki nie zostanie to zrobione</h6><h6>Nelson Madela</h6></div>
+            
+            
+
+        </div>
+        <div class="square">
+            <div class="tile5">
+                <a href="Strona główna.html"><img src="zdjecie.jpg" alt="zdjęcie Pana Płytkarza"></a>
+            </div>
+
+            <div class="yt">
+               <a href="https://www.youtube.com/watch?v=DSR4Ev1GBH0"><img src="yt.png" alt="youtube"></a>
+            </div>
+
+            <div class="fb">
+                <a href="https://www.facebook.com/PanPlytkarz/"><img src="fb.png" alt="facebook"></a>
+                
+              
+            </div>
+
+            <div class="ig">
+                <img src="ig.png" alt="instagram">
+                
+             </div>
+
+            <div class="wapp">
+                <a href="tel:792340458"><img src="wapp.png" alt="whatapp"></a>
+            
+            </div>
+
+            <div style="clear:both;"></div>
+            
+
+        </div>
+        <div class="rectangle">2023 &copy;Michał Nowak</div>
+
+    </div>
+    
+</body>
+</html>

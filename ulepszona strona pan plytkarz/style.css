@@ -1,0 +1,89 @@
+#container{
+    width: 1000px;
+   background-color: rgb(8, 225, 225);
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#logo{
+    display: flex;
+   justify-content: space-around;
+    padding: 20px;
+background-color: rgb(8, 243, 243)
+
+}
+
+#nav{width: 160px;
+    background-color: rgb(10, 229, 229);
+    min-height: 620px;
+    float: left;
+    padding: auto;
+    
+ 
+    
+   }
+
+
+#content{
+    width: 640px;
+    background-color: aqua;
+    float: left;
+    padding: 10px;
+
+}
+    
+
+#ad{
+    width: 160px;
+    background-color: bisque;
+    float: left;
+    min-height: 620px;
+    float: left;
+    padding: 10px;
+
+}
+
+#footer{
+    width: 640px;
+    background-color: aqua;
+    clear: both;
+    width: auto;
+}
+
+addres ul li{
+    list-style: none;
+    margin-bottom: 15px;
+    
+}
+
+.address-icon{
+    width: 16px;
+    height: 16px;
+    background-color: rgb(8, 9, 9);
+}
+
+ul li{
+    list-style: none;
+}
+.circle{
+     border-radius: 50%;
+    }
+
+header div img{
+    border-radius: 50%;
+}
+h1{
+    color: rgb(9, 9, 9);
+    display: flex;
+    align-items: center;
+    font-size: 36px;
+}
+#nav ul li{
+    margin-bottom: 15px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+

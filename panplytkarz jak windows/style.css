@@ -1,0 +1,179 @@
+body{
+    background-color: rgb(236, 239, 226);
+    color: rgb(19, 18, 18);
+    font-family: Arial, Helvetica, sans-serif;
+}
+#container{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.rectangle{
+    width: 960px;
+    margin: 10px;
+    text-align: center;
+
+   
+
+}
+.square{
+    width: 50%;
+    float: left;
+    margin: -10px;
+    margin-bottom: 10px;
+   
+}
+#logo{
+    float: left;
+    font-size: 70px;
+    width: 600px;
+    margin: 10px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: -10px;
+    
+    
+
+
+}
+#zegar{
+    float: left;
+    font-size: 70px;
+    margin: 10px;
+    width: 320px;
+    text-align: left;
+    background-color: rgb(236, 239, 226);
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+.tile1{
+    width: 220px;
+    height: 142px;
+    background-color: rgb(15, 128, 227);
+    float: left;
+    margin: 10px;
+    color: rgb(252, 248, 248);
+   text-align: center;
+   
+}
+.tile1 img{
+   width: 76px;
+  
+}
+.tile2{
+    width: 220px;
+    height: 142px;
+    float: left;
+    margin: 10px;
+    background-color: rgb(112, 111, 110);
+    text-align: center;
+    color: rgb(254, 254, 254);
+    
+
+    
+
+}
+.tile2 img{
+    width: 76px;
+}
+
+.tile3{
+    width: 220px;
+    height: 142px;
+    background-color: rgb(51, 218, 42);
+    float: left;
+    margin: 10px;
+    text-align: center;
+    color: rgb(248, 243, 243);
+}
+.tile4{
+    width: 460px;
+    height: 142px;
+    margin: 10px;
+    background-color: rgb(249, 123, 61);
+    text-align: center;
+    margin-top: -30px;
+    font-size: 24px;
+    line-height: 150%;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+.tile5{
+    width: 460px;
+    height: 304px;
+    margin: 10px;
+    background-color: rgb(236, 239, 226);
+    text-align: center;
+    
+    
+   
+}
+.tile5 img{
+    margin-top: 10px;
+    border-radius: 50%;
+    
+}
+
+.yt{
+    float: left;
+    height: 142px;
+    width: 100px;
+   
+    margin: 10px;
+}
+.fb{
+    float: left;
+    height: 142px;
+    width: 100px;
+ 
+    margin: 10px;
+}
+.ig{
+    float: left;
+    height: 142px;
+    width: 100px;
+    
+    margin: 10px;
+}
+.wapp{
+    float: left;
+    height: 142px;
+    width: 100px;
+    
+    margin: 10px;
+    
+}
+img{
+    margin-left: 2px;
+    margin-top: 20px;
+}
+.tile1:hover{
+    background-color: rgb(133, 123, 211);
+}
+.tile2:hover{
+    background-color: rgb(133, 123, 211);
+}
+.tile3:hover{
+    background-color: rgb(133, 123, 211);
+}
+.tile5:hover{
+    background-color: rgb(133, 123, 211);
+}
+.yt:hover{
+    background-color: rgb(133, 123, 211);
+}
+.fb:hover{
+    background-color: rgb(133, 123, 211);
+}
+.ig:hover{
+    background-color: rgb(133, 123, 211);
+}
+.wapp:hover{
+    background-color: rgb(133, 123, 211);
+}
+a.tilelink{
+    color: white;
+    text-decoration: none;
+}

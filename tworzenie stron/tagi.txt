@@ -1,0 +1,194 @@
+html
+
+atrybut
+
+<a href="xxxx">kliknij</a>
+
+<img width="" height="" src="xx.jpg"/img>
+
+
+<meta name="keywords" content="kinoi, ble ble"/>
+
+<br/> złam linie odstep
+
+dodanie css do html  
+<link rel="stylesheet" href="style.css"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+css
+
+
+
+
+css
+
+efekt na obrazku najechanie na niego
+ opacity: 0.9;
+
+hover
+opacity: 1;
+
+otworzenei sie nowej strony ale stara ma zostac w a href=ffdf target="_blank"
+
+hiperlacze w calym pliku lub w srodku 
+wystylizowac aby przycisk nie mial podkreslenia i koloru niebieskiego
+
+udekorowanie teksu undreline
+
+text decoration non
+
+.nazwa:hover
+{background} przy najechaniu efekt cienia
+
+zaograglic zdjecie border radius 50%
+
+div id="logo"  w css # logo
+
+sasiadujacy div przyklejania sie do siebie float: left;
+
+stopka clear:both;
+
+ustawienie marginesow auto margin-left auto  margin-right auto
+-marginesy css
+margin-
+padding
+padding 0 20px
+
+usówanie kropek 
+list-style: none
+
+-usówanie podkreslenia
+text-decoration:none;
+
+-tekst w poziomie
+
+display:  inline-block
+
+-przestrzen miedzy menu
+
+float;left
+
+-ustawienie czcionki i pixeli
+font-size:14px;
+font-family :arial;
+color;
+
+-wysokosc szerokosc
+width:;
+height:;
+backgroudn-color
+
+ustawienie diva wysrodkowanie
+
+text-align center
+display flex
+
+justify content
+
+
+ustawianie obszaru dookola 
+padding
+
+
+justowanie znaków
+text-align: justify
+
+zmiana ramki deliokatnie zaokraglona
+border-radius: 5px;
+
+
+
+
+html
+
+dodawanie zdjec
+<img/> source zrodlo pliku
+
+dodawanie stron menu
+
+<a href=""></a>
+
+<figure>
+img src=
+figcaption podpis obrazka/figcaption
+
+</figure>
+
+
+dodawanie video
+
+<video controls>
+ <source> type="video/mp4" src="" alt=""
+</video>
+
+style
+video{ 
+width:300px;
+height:178px;}
+
+zerowanie kropek
+list style non
+zerowanie marginesow 0 
+padding 
+odstep miedzy wierszami line height
+
+MENU
+
+ustawienie menu obok siebie float left lub disply inline block
+
+odostepy miedzy menu padding left i right 20px
+
+pionowy separator miedzy menu border right 1px dashed kolor
+
+first-child w style css dajemy i dotyczy pierwszego itemu na liscie
+
+usowanie podkres;en i zmiana koloru
+
+text decoration none
+
+color
+
+cien po najechaniu na menu
+
+.menu a:hover
+
+do rozstawienia zdjec uzyjemy divow
+
+wysrodkowanie pojemnika
+margin left i right auto
+
+dodawanie zdjec
+a href
+
+potem figure
+i potem figcaption opis zdjecia
+
+wysrodkowanie zdjecia
+display inline block
+
+
+
+javascript
+
+nazwa zmiennej od litery dolar podkreslenie
+
+let zmienna
+
+const stala
+
+
+

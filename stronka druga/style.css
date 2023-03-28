@@ -1,0 +1,51 @@
+#container  {
+    width: 1000px ;
+   margin-left: auto;
+   margin-right: auto;
+  background-color: rgb(12, 12, 12);
+}
+
+
+#logo{
+    color: rgb(239, 237, 237);
+    text-align: center;
+    padding: 15px;
+
+}
+
+#nav{
+    float: left;
+    background-color: antiquewhite;
+    width: 120px;
+    min-height: 620px;
+    padding: 10px;
+    float: left;
+
+}
+
+#content{
+    float: left;
+    padding: 20px;
+    width: 640px;
+    color: rgb(230, 222, 222);
+    float: left;
+
+
+}
+#add{
+    float: left;
+    width: 160px;
+    min-height: 620px;
+    padding: 10px;
+    background-color: antiquewhite;
+
+}
+
+#fotter{
+    clear: both;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;
+
+}

@@ -1,0 +1,47 @@
+kotwice smooth scolling
+
+navbar sticki menu zostaje caly czas w tym samym miejscu
+
+position:sticky;
+
+
+nadanie cienia 
+box-shadow: 0 10px 10px -5px rgba
+
+
+przezroczytosc
+
+opacity 0.7 
+
+
+a:hover przejscie koloru  ile czasu ma zajac
+
+transition all 0.15s
+
+
+
+
+kopiowanie obrazu
+
+background-image: url("")     pixabay
+
+
+back-ground;cover zmiana wielkosci obrazka
+
+
+
+font awesome ikonki
+
+
+
+
+progress linijka z progresem
+
+wyposrodkowanie kontenera margin auto
+
+
+pseudo element 
+
+
+
+

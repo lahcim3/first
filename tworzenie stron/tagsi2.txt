@@ -1,0 +1,129 @@
+HTML
+
+-text align center formatowanie tekstu
+
+-formatowanie tekstu
+
+=<pre></pre>-wyglada taki jaki napisalem bedzie w html spacje itd
+
+=wymuszenie nowych lini <br>
+
+=oznaczanie tekstu mark{}
+
+=znacznik b i strong zwiekszaja grubosc
+znacznik b nie bedzie wyrozniony w syntezatorze, strong tak dal niewidowych
+
+=wyróznienie em ciut slabsze od strong
+
+=u jakis błąd podkreslenie
+
+=abr skrot i definicje 
+
+=ins dodanie tekstu pliku, del nie wazna czesc tekstu, s czesc tekstu nie waz a, sup indeks gorny, sub indekst dolny np e =mc2
+
+=tworzenei tekstu z pomniejszaona czcionka np przypisy small
+
+=cytatyt q lub q cite
+
+=bardzie jwyrozniony cytat
+blockquote
+
+=span element liniowy zwykly tekst div dla tekstu
+
+=listy uporzdkowane
+h1
+ol type =a liczby rzymskie male
+ol typ= I duże
+samo ol dajre liczby od 1
+
+=listy nieuporzadkowane
+ h1 
+ul 
+li daje kropki
+
+=listy zagniezdzone mozemy uzyc ul a w srodku ol
+
+=lista slowniki
+
+dl pierwszy termin
+  dt definicja pierwsza
+  dd definicja druga
+
+=numeracja ols stwrt=4 zaczynaja liczby byc od 4
+
+li value=3 liczby od 3
+
+=tabele
+<table> 
+ <tr>
+   <td>
+łączenie wierszy td rowspan=2
+
+style
+td, table{
+border: 1px solid;}
+
+
+=komentarz <!-- .....-->
+
+colspan laczenie wierszy
+
+th nazwy kolumn
+
+<table>
+ <caption>Podpis tabeli</caption>
+ <thead>
+  <tr>
+    <th> Numer</th>
+  </tr>
+ </thead>
+ <tbody>
+  cala tabela
+
+ </body>
+
+<tfoot>
+
+dodac stopnke
+
+</tfoot>
+
+</table>
+
+=Atrybuty w tagu otwierajacym nadaja
+ wlasciwosci elemenotm html, mozemy dodac kilka atrybutow
+-type
+mozilla developer neetwork
+
+=img obraz dodanie title doda tytul
+
+=klasy oraz identyfikatory
+
+klassa to kropka w css
+
+identyfikatory to # haszch
+
+=budowanie stron
+
+header-naglowek strony posiadajacy nawigacje
+nav-nawigacja menu glowne
+article-kompletna autonomiczna tresc
+section- sekcja tematyczna
+aside-malo powiazana z zawartoscia strona np reklama
+div-grupowanie
+footer-stopka strony
+
+=html wysrodkowanie teksty margin left i right auto
+
+=kotwica do jakiegos tekstu np rozdzial
+
+a href="#chapter1">Rozdział 1</a>
+
+
+
+<p id=chapter1>lorem 100</p>
+
+
+
+
+

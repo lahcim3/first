@@ -1,0 +1,47 @@
+body{
+    background-color: white;
+}
+
+#container{
+    display: flex;
+}
+
+.nav{
+
+}
+
+ul{
+    list-style: none;
+    
+}
+
+.img:hover{
+    opacity: 1;
+    background-color: none;
+}
+
+#searchbar{
+    border-radius:20px;
+    font-size: 40px;
+
+}
+
+h3{
+    font-size: 70px;
+}
+
+a{
+    text-decoration: none;
+}
+
+#second{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#first{
+    display: flex;
+    align-items: flex-end;
+    justify-content: right;
+}
